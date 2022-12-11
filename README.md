@@ -1,2 +1,2 @@
 # rsschool-cv
-new description
+https://alexander945.github.io/rsschool-cv/cv
